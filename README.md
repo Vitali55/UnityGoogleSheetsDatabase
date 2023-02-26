@@ -6,7 +6,7 @@ Unity Editor tool, which helps design game-logic database (such as characters, w
 ### via Package Manager
 To install this package using Unity Package Manager simply insert this address:
 ```
-https://github.com/NorskaGames/UnityGoogleSheetsDatabase.git
+https://github.com/Vitali55/UnityGoogleSheetsDatabase.git
 ```
 ![package-manager-setup](https://drive.google.com/uc?id=16GE1j46xtedQu88d6cfM2G4itvqxpU2f)
 
